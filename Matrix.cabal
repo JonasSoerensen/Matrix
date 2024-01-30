@@ -2,15 +2,15 @@ cabal-version:       2.2
 
 name:                Matrix
 version:             0.1.0.0
--- synopsis:
--- description:
+synopsis:            A simple matrix library
+description:         To fully implement the abilities of matricies, this library implements the following functions: the dot product, the hadamard product and the exponent
 homepage:            https://github.com/githubuser/Matrix#readme
 license:             BSD-3-Clause
 license-file:        LICENSE
-author:              Author name here
-maintainer:          example@example.com
-copyright:           2024 Author name here
-category:            Web
+author:              Jonas Ingerslev Sørensen
+maintainer:          ingerslev.jonas@gmail.com
+copyright:           2024 Jonas Ingerslev Sørensen
+category:            Arithmatic
 build-type:          Simple
 extra-source-files:  README.md
                      CHANGELOG.md
